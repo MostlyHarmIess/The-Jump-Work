@@ -49,6 +49,7 @@ h2 + p {
 ul {
   list-style: disc;
   list-style-position: inside;
+  font-size: 2rem;
 }
 
 h3 {
